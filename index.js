@@ -23,5 +23,5 @@ app.get('/contact', (req, res) => {
 
 // Create HTTP server
 app.listen(port, '0.0.0.0', () => {
-    console.log(`Server is running on http://0.0.0.0:${port}, You can access it via http://192.168.1.125:${port}/home`);
+    console.log(`Server is running on http://0.0.0.0:${port}, You can access it via http://192.168.1.125/home`);
 });
