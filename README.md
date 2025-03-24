@@ -39,7 +39,7 @@ To start the server, run:
 ```bash
 sudo npm run dev
 ```
-Open your browser and navigate to `http://{Your IP address}/home` to view the website.
+Open your browser and navigate to `https://{Your IP address}/home` to view the website. (To avoid having to click yes to viewing the website configure your browser to trust the certificate file on your local machine.)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
