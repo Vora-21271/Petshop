@@ -11,11 +11,12 @@ A practice website built using `Node.js`. (*It doesn't actually work.*)
 - [License](#license)
 
 ## Introduction
-PetShop is a Node.js-based web application created for practice purposes. This project is intended to help developers understand the basics of building a web application using Node.js.
+PetShop is a Node.js-based web application created for practice purposes. This project was intended to help be understand the basics of building a web application using Node.js.
 
 ## Features
-- User authentication
-- Product listing
+- About page
+- Item list
+- Contact page
 
 ## Installation
 To install and run this project locally, follow these steps:
@@ -42,6 +43,9 @@ Open your browser and navigate to `http://{Your IP address}/home` to view the we
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## Issues
+Please create an issue under the appropriate template
 
 ## License
 This project is licensed under the Apache 2.0 License.
